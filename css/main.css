@@ -3,11 +3,40 @@
 /* Common
 /*
 /*****************************************************************************/
-
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
+}
+#page-wrap{
+  width: 800px;
+  margin: 0 auto;
+}
+/* for 980px or less */
+@media screen and (max-width: 980px){
+  #page-wrap {
+    width: 94%;
+  }
+  #post {
+    width: 65%;
+  }
+}
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+  #page-wrap {
+    width: 94%;
+    float: none;
+  }
+}
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+  html{
+    -webkit-text-size-adjust: none;
+  }
+    #page-wrap{
+      font-size: 90%;
+      padding: 8px 15px;
+    }
+  }
 }
 
 html, body { height: 100%; }

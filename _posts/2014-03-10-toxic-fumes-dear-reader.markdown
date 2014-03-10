@@ -18,8 +18,7 @@ Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit 
 They're $0.012 - $0.03 a piece, why not?
 
 I told myself I can be steady enough to not need the PCB, but do you know how small surface mount LEDs are?
-[So tiny!]({{nsiemer.github.io}}/_media/sm_LED.JPG)
-That small.
+[This small.]({{nsiemer.github.io}}/_media/sm_LED.JPG)
 But whatever, I wanted to get started.
 
 7:00, the first two screws came out and the back cover slid right off. That's about all that went right. The iPhone 4's back cover isn't just a piece of black plastic with glass glued to it. Inside is a thin aluminum plate and it's why the mod kit is so necessary.
