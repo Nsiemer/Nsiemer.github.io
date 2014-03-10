@@ -18,7 +18,7 @@ Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit 
 They're $0.012 - $0.03 a piece, why not?
 
 I told myself I can be steady enough to not need the PCB, but do you know how small surface mount LEDs are?
-{{ nsiemer.github.io }}/media/sm_LED.jpg)
+[So tiny!]({{nsiemer.github.io}}/_media/sm_LED.JPG)
 That small.
 But whatever, I wanted to get started.
 
