@@ -6,7 +6,11 @@ categories:
 ---
 
 I'm an advocate for DIY and hopefully this blog will become filled with triumphs over entropy and the service industry. But today's story is one of defeat.
-While doing research on jailbreaking an iphone, I came across this <a href="http://www.youtube.com/watch?v=kaH10Scme_Q">body mod</a> where people were illuminating the Apple logo on the back of the iPhone 4. HOW COOL‽ Finally, some phone customization beyond over-priced body covers. While my 4's touchscreen recently shattered, I'd be willing to swap out the screen if I could get this to work. Now, that video is done using a $60 kit which comes with
+While doing research on jailbreaking an iphone, I came across this body mod where people were illuminating the Apple logo on the back of the iPhone 4.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/kaH10Scme_Q?rel=0" frameborder="0" allowfullscreen></iframe>
+
+HOW COOL‽ Finally, some phone customization beyond over-priced body covers. While my 4's touchscreen recently shattered, I'd be willing to swap out the screen if I could get this to work. Now, that video is done using a $60 kit which comes with
 <ul>
 	<li>Necessary screwdrivers (slotted 2.0mm and TS1)</li>
 	<li>A replacement back cover with a clear logo</li>
