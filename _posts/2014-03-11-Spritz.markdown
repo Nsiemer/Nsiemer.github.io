@@ -10,7 +10,7 @@ date:   2014-03-11 19:38:50
    }
 </script>
 
-Check it: I found this awesome new service called [Spritz]({{http://www.spritzinc.com}}) on [I Fucking Love Science]({{http://www.iflscience.com}}).
+Check it: I found this awesome new service called <a href="http://www.spritzinc.com">Spritz</a> on <a href="http://www.iflscience.com">I Fucking Love Science</a>.
 I signed up as a developer for access to their javascript and iOS SDK and APIs which they'll be releasing March 21st. I plan to implement it on this blog as soon as possible.
 
 <img src="{{ site.baseurl }}media/spritz1.gif" alt="250wpm">
