@@ -14,14 +14,16 @@ While doing research on jailbreaking an iphone, I came across this <a href="http
 	<li>2 different light diffusers</li>
 </ul>
 
-Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit which includes the screwdrivers, 2 spudgers, tweezers, and a suction cup. About the same price you'd pay online with shipping. Plus, Radioshack has a student discount. I also got the smallest gauge wire they had. The last thing to get were the surface mount LEDS which had to be purchased online. Most of my components/tools come from <a href="www.jameco.com">Jameco</a> but they only sell them by the thousands, so I went to <a href="www.mouser.com">Mouser</a> and bought a hundred or so.
+Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit which includes the screwdrivers, 2 spudgers, tweezers, and a suction cup. About the same price you'd pay online with shipping. Plus, Radioshack has a student discount. I also got the smallest gauge wire they had. The last thing to get were the surface mount LEDS which had to be purchased online. Most of my components/tools come from [Jameco]({{http://www.jameco.com}}) but they only sell them by the thousands, so I went to [Mouser Electronics]({{http://www.mouser.com}}) and bought a hundred or so.
 They're $0.012 - $0.03 a piece, why not?
 
 I told myself I can be steady enough to not need the PCB, but do you know how small surface mount LEDs are?
 
 <img src="{{ site.baseurl }}media/sm_LED.JPG" width="400" height="300">
 
-But whatever, I wanted to get started.
+That small. And remember that each contact is about 1/3 of the total surface area.
+
+Whatever, I wanted to get started.
 
 7:00, the first two screws came out and the back cover slid right off. That's about all that went right. The iPhone 4's back cover isn't just a piece of black plastic with glass glued to it. Inside is a thin aluminum plate and it's why the mod kit is so necessary.
 
