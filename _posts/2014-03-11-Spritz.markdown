@@ -16,9 +16,7 @@ I signed up as a developer for access to their javascript and iOS SDK and APIs w
 <img src="{{ site.baseurl }}media/spritz1.gif" alt="250wpm">
 
 
-
 <img src="{{ site.baseurl }}media/spritz2.gif" alt="350wpm">
-
 
 
 <img src="{{ site.baseurl }}media/spritz3.gif" alt="500wpm">
@@ -28,12 +26,12 @@ Pretty neat, huh? What a great way to address the "attention deficit problem" an
 
 Kind of interesting that they ask developers to wait because their script can be found with your browser's dev tools. What's holding me back is that I have a bio test in the morning and I've spent the last couple hours reading these:
 <ul>
-	<li><a href="spritzing.com/wp-content/themes/spritz/js/SpritzUtils.js">SpritzUtils.js</a></li>
-	<li><a href="spritzing.com/wp-content/themes/spritz/js/BootstrapSelect.js">BootstrapSelect.js</a></li>
-	<li><a href="spritzing.com/wp-content/themes/spritz/js/SpritzModel.js">SpritzModel.js</a></li>
-	<li><a href="spritzing.comwp-content/themes/spritz/js/SpritzDisplay.js">SpritzDisplay.js</a></li>
-	<li><a href="spritzing.com//wp-content/themes/spritz/js/LearnToSpritz.js">LearnToSpritz.js</a></li>
-	<li><a href="spritzing.com/wp-content/themes/spritz/js/PageSpritz.js">PageSpritz.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzUtils.js">SpritzUtils.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/BootstrapSelect.js">BootstrapSelect.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzModel.js">SpritzModel.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzDisplay.js">SpritzDisplay.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/LearnToSpritz.js">LearnToSpritz.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/PageSpritz.js">PageSpritz.js</a></li>
 	</ul>
 
 I also found <a href="http://www.spritzinc.com/author/sudo/">this</a>.
