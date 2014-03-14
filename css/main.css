@@ -3,55 +3,61 @@
 /* Common
 /*
 /*****************************************************************************/
+/*
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
+
 #page-wrap{
-  width: 800px;
-  margin: 0 auto;
+	width: 800px;
+	margin: 0 auto;
 }
 /* for 980px or less */
+/*
 @media screen and (max-width: 980px){
-  #page-wrap {
-    width: 94%;
-  }
-  #post {
-    width: 65%;
-  }
+	#page-wrap {
+		width: 94%;
+	}
+	#post {
+		width: 65%;
+	}
 }
 /* for 700px or less */
+/*
 @media screen and (max-width: 700px) {
-  #page-wrap {
-    width: 94%;
-    float: none;
-  }
+	#page-wrap {
+		width: 94%;
+		float: none;
+	}
 }
 /* for 480px or less */
 @media screen and (max-width: 480px) {
-  html{
-    -webkit-text-size-adjust: none;
-  }
-    #page-wrap{
-      font-size: 90%;
-      padding: 8px 15px;
-    }
-  }
+	html{
+		-webkit-text-size-adjust: none;
+	}
+		#page-wrap{
+			font-size: 90%;
+			padding: 8px 15px;
+		}
+	}
 }
 
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+	background-color: #FFF;
+	font: 13.34px Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+	font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em;
+	color: #FFFFFF;
+}
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -64,18 +70,18 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 .posts {
-  list-style-type: none;
-  margin-bottom: 2em;
+	list-style-type: none;
+	margin-bottom: 2em;
 }
 
 .posts li {
-  line-height: 1.75em;
+	line-height: 1.75em;
 }
 
 .posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+	color: #FFFFFF;
+	font-family: Monaco, "Courier New", monospace;
+	font-size: 80%;
 }
 
 /*****************************************************************************/
@@ -85,69 +91,78 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+	font-size: 115%;
+	text-align: justify;
+	width: 42em;
+	margin: 3em auto 2em;
+	line-height: 1.5em;
 }
 
 .header a {
-  font-weight: bold;
-  text-decoration: none;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .title {
-  display: inline-block;
-  margin-bottom: 2em;
+	display: inline-block;
+	margin-bottom: 2em;
 }
 
 .title a {
-  color: #a00;
+	color: blue;
 }
 
 .title a:hover {
-  color: #000;
+	color: #000;
 }
 
 .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+	color: #aaa;
+	margin-left: 1em;
+}
+.pages{
+background-color: #81FF8A;
+border-radius: 10px;
+/*box-shadow: 30px 20px 3px black;*/
+padding: 8px;
+ & h1{
+	text-color: #FFFFFF;
+	}
 }
 
 .header a.extra:hover {
-  color: #000;
+	color: #000;
 }
 
 .meta {
-  color: #aaa;
+	color: #aaa;
 }
 
 .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
+	font-size: 80%;
+	color: #666;
+	border-top: 4px solid #eee;
+	margin-top: 2em;
+	overflow: hidden;
 }
 
 .footer .contact {
-  float: left;
-  margin-right: 3em;
+	float: left;
+	margin-right: 3em;
 }
 
 .footer .contact a {
-  color: #8085C1;
+	color: #8085C1;
 }
 
 .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
+	margin-top: 1.1em;
+	margin-right: -.2em;
+	float: right;
 }
 
 .footer .rss img {
-  border: 0;
+	border: 0;
 }
 
 /*****************************************************************************/
@@ -158,32 +173,16 @@ a:visited { color: #a0a; }
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+	border: 1px solid #ddd;
+	background-color: #eef;
+	padding: 0 .4em;
 }
 
 .post ul, .post ol {
-  margin-left: 1.35em;
+	margin-left: 1.35em;
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
-  border: none;
-}
-
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
-}
+	border: 1px solid #ddd;
+	background-color: #eef;
+	padding: 0 .2em;

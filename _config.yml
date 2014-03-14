@@ -1,3 +1,5 @@
 name: tbd
 markdown: redcarpet
 pygments: true
+exclude: [_drafts]
+timezone: America/Saint_Louis

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spritz"
-date:   2014-03-11 19:38:50
+date: 2014-03-11
 ---
 <script>
    if( window.console && window.console.firebug ){
@@ -12,15 +12,15 @@ date:   2014-03-11 19:38:50
 
 Check it: I found this awesome new service called <a href="http://www.spritzinc.com">Spritz</a> on <a href="http://www.iflscience.com">I Fucking Love Science</a>.
 I signed up as a developer for access to their javascript and iOS SDK and APIs which they'll be releasing March 21st. I plan to implement it on this blog as soon as possible.
-
+<div class="container">
 <img src="{{ site.baseurl }}media/spritz1.gif" alt="250wpm">
-
-
+</div>
+<div class="container">
 <img src="{{ site.baseurl }}media/spritz2.gif" alt="350wpm">
-
-
+</div>
+<div class="container">
 <img src="{{ site.baseurl }}media/spritz3.gif" alt="500wpm">
-
+</div>
 
 Pretty neat, huh? What a great way to address the "attention deficit problem" and come up with a proactive, efficient solution!
 
