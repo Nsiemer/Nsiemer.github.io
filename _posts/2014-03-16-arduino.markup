@@ -24,7 +24,7 @@ The XPath value goes to directing which part of the page_html variable you're wa
 <br>
 <script src="https://gist.github.com/Nsiemer/9580223.js"></script>
 
-Running this new screen scraper had a couple errors that I wasn't getting a few weeks ago. First, the libxml library that nokogiri comes with is out of date so I tried
+Running this new screen scraper had a couple of errors that I wasn't getting a few weeks ago. First, the libxml library that nokogiri comes with is out of date so I tried
 <br>
 <code> sudo gem uninstall nokogiri</code>
 <br>
@@ -57,3 +57,5 @@ First, Google has an API that will do exactly that search for me. I'm just too b
 <br> Second, for projects like this that aren't centered around Google, perhaps AJAX can be used to lighten the load. <br>
 Third, the original idea about some goofy gadget that plays an airhorn mp3 would need to have internet access, be small, and include all the necessary hardware.<br>
 The Raspberry Pi would be a much better prototype for this. Wifi dongles are available, it's small, has memory, runs Ruby, and has IO pins for the speaker circuit. Unfortunately the RPi is hard to work with. While portable, I'd need to also pack a keyboard, mouse, and monitor to get anything done with it.
+<br><br>
+Obviously the physical action happening isn't limited to turing an LED on or off. Something else I have in mind is a "thermometer" that displays several kinds of data through needles attached to servos. Like one that indicates temperature, one for barometric pressure, one for stock prices, etc... With the addition of small LCD screens, it could compare topics trending on Twitter.
