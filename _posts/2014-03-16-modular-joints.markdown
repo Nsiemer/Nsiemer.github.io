@@ -13,3 +13,4 @@ By flipping and rotating these bars, build a 4X4 modular grid where each bracket
 <img src="{{ site.baseurl }}media/grid.jpg" width="300" height="400">
 </div>
 <br>
+This came about from my architecture project. Without going into too much detail (my team is in a contest), the professor has challenged us to make a design that's as modular as possible. Right now we have 3 pieces to our design: skeleton, joints, and surface panels. The object of this problem is to integrate the joints into the skeleton, leaving us with just two pieces. If this can work out, it would be visually boring yet elegant and esoterically beautiful.
