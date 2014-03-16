@@ -6,7 +6,7 @@ date: 2014-03-16
 ---
 
 Something that's captured my fancy is taking web data and implementing it into the physical world. An Arduino board seems like a great place to start.
-A few weeks ago I read that <a href="http://www.wired.com">Wired</a> article about the dude who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/">Hacked OkCupid</a> and was really intrigued that he worte a python web bot. Since Ruby is what I'm most (exclusively) comfortable with, I wrote a Ruby bot using the Firebug plugin and Ruby Gems Watir, Nokogiri, and Firmata. This <a href="http://www.layeredthoughts.com/automation/how-to-write-your-first-ruby-web-bot-in-watir-scraping-weather-com">tutorial</a> was a nice walk-through.
+A few weeks ago I read that <a href="http://www.wired.com" target="_blank">Wired</a> article about the dude who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/" target="_blank">Hacked OkCupid</a> and was really intrigued that he worte a python web bot. Since Ruby is what I'm most (exclusively) comfortable with, I wrote a Ruby bot using the Firebug plugin and Ruby Gems Watir, Nokogiri, and Firmata. This <a href="http://www.layeredthoughts.com/automation/how-to-write-your-first-ruby-web-bot-in-watir-scraping-weather-com" target="_blank">tutorial</a> was a nice walk-through.
 <br>For the Arduino end, in the Arduino IDE app, go to File > Examples > Firmata > open StandardFirmata and upload the sketch to your Arduino.<br>
 On this project, I'm using an Arduino Nano which I bought from Amazon for $12. The Nano has been giving me issues that my Uno normally doesn't, which is maybe for another post. But for now, know that's why the Arduino port appears as <code>/dev/cu.usbserial-A7036NTN</code> instead of something like <code>/dev/tty.serial-------</code>.<br>
 I started with the goal of making a goofy device that would sound an airhorn mp3 or something whenever the St. Louis Blues scored a goal. For lack of hardware to store an mp3 on an Arduino or having a speaker available, I settled for turning on an LED.
@@ -24,16 +24,17 @@ The XPath value goes to directing which part of the page_html variable you're wa
 <br>
 <script src="https://gist.github.com/Nsiemer/9580223.js"></script>
 
-Running this new screen scraper had a couple of errors that I wasn't getting a few weeks ago. First, the libxml library that nokogiri comes with is out of date so I tried
+It's important that `Nokogiri::HTML.parse(browser.html)` is inside the loop so it can be redefined after every refresh. <br><br>
+Running this new screen scraper had a couple of errors that I wasn't getting a few weeks ago. First, the libxml library that nokogiri comes with is out of date and was throwing a fatal error so I tried
 <br>
 <code> sudo gem uninstall nokogiri</code>
 <br>
 <code> gem install nokogiri </code>
 <br>
-After that not working, I followed up with <a href="https://gist.github.com/vparihar01/5856524">this</a>, which to be honest, I don't understand.
+After that not working, I followed up with <a href="https://gist.github.com/vparihar01/5856524" target="_blank">this</a>, which to be honest, I don't understand.
 But it worked!
 <br>
-Then, line 150 of the Firmata board.rb file was out-of-date, or "deprecated," after Ruby-2.x.x. To fix this,
+Then, line 150 of the Firmata board.rb file was "deprecated," after Ruby-2.x.x. To fix this,
 <ul>
 <li>
 <code>
@@ -43,8 +44,8 @@ cd [user directory]/.rvm/rubies/ruby-2.1.0/gems/firmata-0.1.1/lib/firmata && ope
 <li>Make it say <code> bytes = StringIO.new(String(data)).each_byte</code></li>
 </ul>
 
-This was my first time editing a gem's code and I'm psyched it worked.<br><br>
-So when running <code>ruby bot.rb</code>, a warning still gets thrown with nokogiri's xml library but it's not fatal. Then the board prints a confirmation that it's connected, a firefox window opens, it loads the Google search from earlier and prints whether the minute is an even or odd integer.
+This was my first time editing a gem's code and I'm psyched that it worked.<br><br>
+So when running <code>ruby bot.rb</code>, a warning still gets thrown with nokogiri's xml library but it's not fatal. Then the board prints a confirmation that it's connected, a firefox window opens, it loads the Google search from earlier and the terminal prints whether the minute is an even or odd integer.
 <div class="container">
 <img src="{{ site.baseurl }}media/ledoff.jpg" width="300" height="400">
 </div><div class="container">
