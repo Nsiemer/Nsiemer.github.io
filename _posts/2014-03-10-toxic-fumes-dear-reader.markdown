@@ -18,7 +18,7 @@ HOW COOL‽ Finally, some phone customization beyond over-priced body covers. Wh
 	<li>2 different light diffusers</li>
 </ul>
 
-Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit which includes the screwdrivers, 2 spudgers, tweezers, and a suction cup. About the same price you'd pay online with shipping. Plus, Radioshack has a student discount. I also got the smallest gauge wire they had. The last thing to get were the surface mount LEDS which had to be purchased online. Most of my components/tools come from [Jameco]({{http://www.jameco.com}}) but they only sell them by the thousands, so I went to [Mouser Electronics]({{http://www.mouser.com}}) and bought a hundred or so.
+Not ready to invest $60 in this kit, I bought Radioshack's $20 mobile phone kit which includes the screwdrivers, 2 spudgers, tweezers, and a suction cup. About the same price you'd pay online with shipping. Plus, Radioshack has a student discount. I also got the smallest gauge wire they had. The last thing to get were the surface mount LEDS which had to be purchased online. Most of my components/tools come from <a href="http://www.jameco.com" target="_blank">Jameco</a> but they only sell them by the thousands, so I went to <a href="http://www.mouser.com" target="_blank">Mouser</a> and bought a hundred or so.
 They're $0.012 - $0.03 a piece, why not?
 
 I told myself I can be steady enough to not need the PCB, but do you know how small surface mount LEDs are?

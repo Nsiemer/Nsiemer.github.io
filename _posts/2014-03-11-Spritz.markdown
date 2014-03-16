@@ -10,7 +10,7 @@ date: 2014-03-11
    }
 </script>
 
-Check it: I found this awesome new service called <a href="http://www.spritzinc.com">Spritz</a> on <a href="http://www.iflscience.com">I Fucking Love Science</a>.
+Check it: I found this awesome new service called <a href="http://www.spritzinc.com" target="_blank">Spritz</a> on <a href="http://www.iflscience.com" target="_blank">I Fucking Love Science</a>.
 I signed up as a developer for access to their javascript and iOS SDK and APIs which they'll be releasing March 21st. I plan to implement it on this blog as soon as possible.
 <div class="container">
 <img src="{{ site.baseurl }}media/spritz1.gif" alt="250wpm">
@@ -26,14 +26,14 @@ Pretty neat, huh? What a great way to address the "attention deficit problem" an
 
 Kind of interesting that they ask developers to wait because their script can be found with your browser's dev tools. What's holding me back is that I have a bio test in the morning and I've spent the last couple hours reading these:
 <ul>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzUtils.js">SpritzUtils.js</a></li>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/BootstrapSelect.js">BootstrapSelect.js</a></li>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzModel.js">SpritzModel.js</a></li>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzDisplay.js">SpritzDisplay.js</a></li>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/LearnToSpritz.js">LearnToSpritz.js</a></li>
-	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/PageSpritz.js">PageSpritz.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzUtils.js" target="_blank">SpritzUtils.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/BootstrapSelect.js" target="_blank">BootstrapSelect.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzModel.js" target="_blank">SpritzModel.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/SpritzDisplay.js" target="_blank">SpritzDisplay.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/LearnToSpritz.js" target="_blank">LearnToSpritz.js</a></li>
+	<li><a href="http://www.spritzinc.com/wp-content/themes/spritz/js/PageSpritz.js" target="_blank">PageSpritz.js</a></li>
 	</ul>
 
-I also found <a href="http://www.spritzinc.com/author/sudo/">this</a>.
+I also found <a href="http://www.spritzinc.com/author/sudo/" target="_blank">this</a>.
 Perhaps indicating that they'll first support WordPress?
 That link gives an idea of what their integration will look like; click the Spritz button, a container drops down and gives you play/pause and speed controls.
