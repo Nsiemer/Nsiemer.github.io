@@ -22,8 +22,7 @@ Only hours later I received a pretty, elegant solution.
     <br>
     <a href="http://www.hardscrabble.net">hardscrabble.net</a><br>
     <a href="http://www.twitter.com/maxjacobson">@maxjacobson</a><br>
-    <a href="http://www.github.com/maxjacobson">github.com/maxjacobson</a><br>
-    <a href="https://www.facebook.com/jacobson?fref=ts">Facebook</a>
+    <a href="http://www.github.com/maxjacobson">github.com/maxjacobson</a>
   </div>
 </div>
 See his further refactored version in the comments!
