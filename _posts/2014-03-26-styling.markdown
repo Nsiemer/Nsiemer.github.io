@@ -3,8 +3,8 @@ layout: post
 title:  "Finally, A Stylesheet"
 ---
 
-I'm finally styling up this site. I haven't been looking forward to this because there seem to be a ton of finer points to CSS that can take forever to learn. Not to mention SCSS and SASS.
-To start, I came up with this little draft and it's really not very different from the default jekyll styling.  
+I'm finally styling up this site. I haven't been looking forward to the chore, as there seem to be a ton of finer points to CSS that can take forever to learn. Not to mention SCSS and SASS.
+To start, I came up with this little draft that's not very different from the default jekyll styling.  
 <div class="container">
 <img src="{{site.baseurl}}media/draft.jpg" height="100%" width="100%">
 </div>
@@ -43,10 +43,9 @@ irb(main):002:0> 1+2
 <a href="http://www.twitter.com/wikipdia> target="_blank">@wikipedia</a>
 </div>
 </div>
-
-It's kind of a pain right now, having to give the pronoun an `<h4>` tag, then typing out each link and adding a `target="_blank"`. I want to come up with some meta integrating thing where I can just put all the links into an array.
+Just realizing that it would probably be nice to have the content provider's name in the top left of the citation div. Later. The citation bubble is kind of a pain right now, having to give the pronoun an `<h4>` tag, then typing out each link and adding a `target="_blank"`. I want to come up with some meta integrating thing where I can just put all the links into an array.
 <hr>
-Now for the color scheme. <a href="https://kuler.adobe.com/create/color-wheel/" target="_blank"> Kuler.adobe</a> is a pretty neat design tool I learned about in a 'Color and Light' interior design class at school.
+Now for the color scheme. <a href="https://kuler.adobe.com/create/color-wheel/" target="_blank"> Kuler.adobe</a> is a pretty neat design tool I learned about in a 'Color and Light' interior design course at school.
 
 You can upload an image to Kuler and it will sum up the color palette.
 
@@ -58,7 +57,7 @@ You can upload an image to Kuler and it will sum up the color palette.
 <div class="container">
 <img src="{{ site.baseurl }}media/3.png" height="100%" width="100%">
 </div>
-<h3>it will then tell you the RGB values and hex code</h3>
+<h3>it will then tell you the RGB and hex values</h3>
 <div class="container">
 <img src="{{ site.baseurl }}media/4.png" height="100%" width="100%">
 </div>
@@ -79,7 +78,7 @@ Which brought me to
 <li>external source: #21E850</li>
 <li>citation tag: #300157</li>
 </ol>
-I'm leaving the background white and giving the text field the initial background color. It was getting too busy, if it isn't already. I'm on the fence with the box shadows.
+I'm leaving the background white and giving the text field the initial background color. It was getting too busy, if it isn't already. I'm on the fence with the box shadows too.
 Also, this is the dialed down palette. I've been into flamboyant colors lately in a Chris Trager kind of way.
 <div class="container">
 <img src="{{ site.baseurl }}media/traeger.png" height="100%" width="100%">
@@ -89,7 +88,7 @@ Also, this is the dialed down palette. I've been into flamboyant colors lately i
 With headings, I'm trying to take some hints from <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a> by actually using them.
 <h1>Heading 1</h1> titles<br>
 <h2>Heading 2</h2> title subtext<br>
-<h3>Heading 3</h3> picture captions<br>
+<h3>Heading 3</h3> BuzzFeed-esque captions above the image<br>
 <h4>Heading 4</h4> citation pronouns<br>
 
-Still lacking a name
+Still need a name, responsive styling for cellphones and such, and to fix that weirdo text spacing thing

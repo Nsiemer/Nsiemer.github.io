@@ -37,3 +37,5 @@ Kind of interesting that they ask developers to wait because their script can be
 I also found <a href="http://www.spritzinc.com/author/sudo/" target="_blank">this</a>.
 Perhaps indicating that they'll first support WordPress?
 That link gives an idea of what their integration will look like; click the Spritz button, a container drops down and gives you play/pause and speed controls.
+<div class="revision">
+Spritz sent me an email on 3/20, explaining some terms of use and that they'll be opening the doors to Android before web (javascript) developers. Nothing else from them as of 3/26. Probably because I signed up as an individual user who will have fewer than 10,000 visitors.</div>
