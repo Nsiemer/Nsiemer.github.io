@@ -22,7 +22,8 @@ Then in the new window,right click on the highlighted HTML element and click "co
 
 The XPath value goes to directing which part of the page_html variable you're wanting to work with. See line 22
 <br>
-<script src="https://gist.github.com/Nsiemer/9580223.js"></script>
+<div class="local">
+<script src="https://gist.github.com/Nsiemer/9580223.js"></script></div>
 A breakdown: <br>
 It starts by requiring the necessary third-party libraries as gems.<br>
 Then the Arduino board is connected. This is knocked out early because I wanted to make sure it's ready to receive data. Also, it's the limiting step as it takes ~6.5 seconds, while opening the browser takes ~4.4 seconds. If that even means anything.<br>
