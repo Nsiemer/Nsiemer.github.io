@@ -2,3 +2,4 @@ name: tbd
 markdown: redcarpet
 pygments: true
 timezone: America/Saint_Louis
+highlighter: pygments

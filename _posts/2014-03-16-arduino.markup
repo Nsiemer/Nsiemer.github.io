@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "My First Web Bot"
-date: 2014-03-16
+
 
 ---
 
 Something that's captured my fancy is taking web data and implementing it into the physical world. An Arduino board seems like a great place to start.
-A few weeks ago I read that <a href="http://www.wired.com" target="_blank">Wired</a> article about the dude who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/" target="_blank">Hacked OkCupid</a> and was really intrigued that he worte a python web bot. Since Ruby is what I'm most (exclusively) comfortable with, I wrote a Ruby bot using the Firebug plugin and Ruby Gems Watir, Nokogiri, and Firmata. This <a href="http://www.layeredthoughts.com/automation/how-to-write-your-first-ruby-web-bot-in-watir-scraping-weather-com" target="_blank">tutorial</a> was a nice walk-through.
+A few weeks ago I read that <a href="http://www.wired.com" target="_blank">Wired</a> article about the dude who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/" target="_blank">Hacked OkCupid</a> and was really intrigued that he worte a python web bot. Since Ruby is what I'm most (exclusively) comfortable with, I wrote a Ruby bot using the Firebug plugin and Ruby Gems Watir, Nokogiri, and Firmata. This <a href="http://www.layeredthoughts.com/automation/how-to-write-your-first-ruby-web-bot-in-watir-scraping-weather-com" target="_blank">tutorial</a> was a nice walk-through and demonstrates how the plugin Live-Recorder can give your bot more interaction with a web page.
 <br>For the Arduino end, in the Arduino IDE app, go to File > Examples > Firmata > open StandardFirmata and upload the sketch to your Arduino.<br>
 On this project, I'm using an Arduino Nano which I bought from Amazon for $12. The Nano has been giving me issues that my Uno normally doesn't, which is maybe for another post. But for now, know that's why the Arduino port appears as <code>/dev/cu.usbserial-A7036NTN</code> instead of something like <code>/dev/tty.serial-------</code>.<br>
 I started with the goal of making a goofy device that would sound an airhorn mp3 or something whenever the St. Louis Blues scored a goal. For lack of hardware to store an mp3 on an Arduino or having a speaker available, I settled for turning on an LED.
@@ -23,15 +23,23 @@ Then in the new window,right click on the highlighted HTML element and click "co
 The XPath value goes to directing which part of the page_html variable you're wanting to work with. See line 22
 <br>
 <script src="https://gist.github.com/Nsiemer/9580223.js"></script>
+A breakdown: <br>
+It starts by requiring the necessary third-party libraries as gems.<br>
+Then the Arduino board is connected. This is knocked out early because I wanted to make sure it's ready to receive data. Also, it's the limiting step as it takes ~6.5 seconds, while opening the browser takes ~4.4 seconds. If that even means anything.<br>
+<code>Firmata::Board.new(--serialport)</code> is pretty self-explanatory.<br>
+The whole <code>if board.connected?</code> statement isn't necessary.<br>
+Next is opening the browser. I was only able to get it working on Firefox. I found a supposedly compatible Chrome library but things weren't working out.<br>
+Once the browser is in position, a loop starts. It's important that <code>Nokogiri::HTML.parse(browser.html)</code> is inside the loop so it can be redefined after every refresh. I was a little clumsy in selecting the XPath as it returned the time, am/pm, weekday, month, date… The whole shebang. I had to use <code>.split(//)</code> to make an array where each element was character of the gathered text. <br>
+<code>t[3].to_i</code> calls the 4th member in the array and designates the character as an integer which will be critical to determining if the value is even or odd in the following boolean statement.<br>
+<br><br>
 
-It's important that `Nokogiri::HTML.parse(browser.html)` is inside the loop so it can be redefined after every refresh. <br><br>
 Running this new screen scraper had a couple of errors that I wasn't getting a few weeks ago. First, the libxml library that nokogiri comes with is out of date and was throwing a fatal error so I tried
 <br>
 <code> sudo gem uninstall nokogiri</code>
 <br>
 <code> gem install nokogiri </code>
 <br>
-After that not working, I followed up with <a href="https://gist.github.com/vparihar01/5856524" target="_blank">this</a>, which to be honest, I don't understand.
+When that didn't work, I followed up with <a href="https://gist.github.com/vparihar01/5856524" target="_blank">this</a>, which to be honest, I don't understand.
 But it worked!
 <br>
 Then, line 150 of the Firmata board.rb file was "deprecated," after Ruby-2.x.x. To fix this,
@@ -60,3 +68,6 @@ Third, the original idea about some goofy gadget that plays an airhorn mp3 would
 The Raspberry Pi would be a much better prototype for this. Wifi dongles are available, it's small, has memory, runs Ruby, and has IO pins for the speaker circuit. Unfortunately the RPi is hard to work with. While portable, I'd need to also pack a keyboard, mouse, and monitor to get anything done with it.
 <br><br>
 Obviously the physical action happening isn't limited to turing an LED on or off. Something else I have in mind is a "thermometer" that displays several kinds of data through needles attached to servos. Like one that indicates temperature, one for barometric pressure, one for stock prices, etc... With the addition of small LCD screens, it could compare topics trending on Twitter.
+
+<div class="revision">
+After writing this post, I was looking around on Gizmodo and found <a href="http://gizmodo.com/the-first-five-smart-home-appliances-from-quirky-and-ge-1451720808" target="_blank">this</a> article about GE and a company called Quirky pairing up to make home-automation consumer electronics. Some of them are ridiculous (see the wifi equipped egg tray). But the smart phone controlled power strip looks like the Clapper done right. They also have a device called "The Nimbus" which is pretty much what I was getting at in the last paragraph.</div>

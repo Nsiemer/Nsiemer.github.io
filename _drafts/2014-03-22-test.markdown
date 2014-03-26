@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "Finally, A Stylesheet"
+---
+
+I'm finally styling up this site. I haven't been looking forward to this because there seem to be a ton of finer points to CSS that can take forever to learn. Not to mention SCSS and SASS.
+To start, I came up with this little draft and it's really not very different from the default jekyll styling.  
+<div class="container">
+<img src="{{site.baseurl}}media/draft.jpg" height="100%" width="100%">
+</div>
+I plan on posting my own code along with a lot of outside content so I want to make a visual que to differentiate the two. I also want to make sure I cite my sources and give credit where credit's due.
+I wrestled with making that curly-arrow-tag thing all morning either as a scalable vector graphic (.svg), or by writing it entirely in CSS. Not making much progress, I decided to keep it simple and just go with an absolute positioned div, titled "cite."
+Here are local and external examples:
+<div class="local">
+{% highlight ruby linenos %}
+$ irb
+2.1.0 :001 > def even?(x)
+2.1.0 :002?>   if x % 2 == 0
+2.1.0 :003?>     puts "#{x} is even"
+2.1.0 :004?>     else
+2.1.0 :005 >       puts "#{x} is odd"
+2.1.0 :006?>     end
+2.1.0 :007?>   end
+ => :even?
+2.1.0 :008 > even?(5)
+5 is odd
+ => nil
+2.1.0 :009 >
+{% endhighlight %}
+</div>
+
+<div class="external">
+  {% highlight ruby linenos %}
+$ irb
+irb(main):001:0> puts "Hello, World"
+Hello, World
+ => nil
+irb(main):002:0> 1+2
+ => 3
+{% endhighlight %}
+ <div class="cite"><h4>Wikipedia</h4><br>
+<a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)" target="_blank">Wikipedia.com</a><br>
+<a href="http://www.twitter.com/wikipdia> target="_blank">@wikipedia</a>
+</div>
+</div>
+
+It's kind of a pain right now, having to give the pronoun an `<h4>` tag, then typing out each link and adding a `target="_blank"`. I want to come up with some meta integrating thing where I can just put all the links into an array.
+<hr>
+Now for the color scheme. <a href="https://kuler.adobe.com/create/color-wheel/" target="_blank"> Kuler.adobe</a> is a pretty neat design tool I learned about in a 'Color and Light' interior design class at school.
+
+You can upload an image to Kuler and it will sum up the color palette.
+
+<h3>Team Zissou, for example</h3>
+<div class="container">
+<img src="{{ site.baseurl }}media/1.png" alt="Team Zissou" height="100%" width="100%">
+</div>
+<h3>or art</h3>
+<div class="container">
+<img src="{{ site.baseurl }}media/3.png" height="100%" width="100%">
+</div>
+<h3>it will then tell you the RGB values and hex code</h3>
+<div class="container">
+<img src="{{ site.baseurl }}media/4.png" height="100%" width="100%">
+</div>
+<h3>You can also work with color shemas like triad, monochromatic, complementary, shades, etc...</h3>
+<div class="container">
+<img src="{{ site.baseurl }}media/5.png" height="100%" width="100%">
+</div>
+<h3>I'm going with a custom schema (for now)</h3>
+<div class="container">
+<img src="{{ site.baseurl }}media/7.png" height="100%" width="100%">
+</div>
+
+Which brought me to
+<ol>
+<li>background: #46FFFS</li>
+<li>text field: #B7E6E8</li>
+<li>internal source: #4C63FF</li>
+<li>external source: #21E850</li>
+<li>citation tag: #300157</li>
+</ol>
+I'm leaving the background white and giving the text field the initial background color. It was getting too busy, if it isn't already. I'm on the fence with the box shadows.
+Also, this is the dialed down palette. I've been into flamboyant colors lately in a Chris Trager kind of way.
+<div class="container">
+<img src="{{ site.baseurl }}media/traeger.png" height="100%" width="100%">
+</div>
+<hr>
+
+With headings, I'm trying to take some hints from <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a> by actually using them.
+<h1>Heading 1</h1> titles<br>
+<h2>Heading 2</h2> title subtext<br>
+<h3>Heading 3</h3> picture captions<br>
+<h4>Heading 4</h4> citation pronouns<br>
+
+Still lacking a name
