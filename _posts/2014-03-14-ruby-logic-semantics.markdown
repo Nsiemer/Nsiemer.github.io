@@ -17,12 +17,12 @@ Only hours later I received a pretty, elegant solution.
 <div class="external">
   <script src="https://gist.github.com/maxjacobson/3706d9605edb8773a2c8.js">
   </script>
-  <div class="cite">
+    <div class="cite">
     <h4>Max Jacobson</h4>
     <br>
-    <a href="http://www.hardscrabble.net">hardscrabble.net</a><br>
-    <a href="http://www.twitter.com/maxjacobson">@maxjacobson</a><br>
-    <a href="http://www.github.com/maxjacobson">github.com/maxjacobson</a>
+    <a href="http://www.hardscrabble.net" target="blank">hardscrabble.net</a><br>
+    <a href="http://www.twitter.com/maxjacobson" target="_blank">@maxjacobson</a><br>
+    <a href="http://www.github.com/maxjacobson" target="_blank">github.com/maxjacobson</a>
   </div>
 </div>
 See his further refactored version in the comments!

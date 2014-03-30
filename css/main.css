@@ -59,7 +59,6 @@ h5{
 	fontsize: 80%;
 }
 
-
 a         { color: #a0a; }
 a:hover   { color: #000; }
 /*a:visited { color: #a0a; }*/
@@ -185,6 +184,14 @@ padding: 8px;
 	line-height: 10%;
 	background-color: #eef;
 	padding: 0 .2em;
+}
+.img{
+	margin-left:auto;
+	margin-right:auto;
+}
+.container{
+	width: auto;
+	margin-right: auto;
 }
 .revision{
 	margin-left: 3%;
