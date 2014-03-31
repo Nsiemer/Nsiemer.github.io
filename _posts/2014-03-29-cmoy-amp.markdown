@@ -8,7 +8,7 @@ title:  "CMOY Amplifier"
 <meta name="twitter:creator" content="@so_rowdy">
 <meta name="twitter:title" content="My CMOY Pocket Amp">
 <meta name="twitter:description" content="Using an empty deoderant stick, I made a pocket amplifier powered by an LM386N amplifier chip.">
-<meta name="twitter:image:src" content="{{site.baseurl}}media/product.jpg">
+<meta name="twitter:image:src" content="http://www.angelfire.com/clone2/stuff_me/product3.jpg">
 
 I've invested far too much in components and tools to have not made a pocket amplifier so that started happening around 9pm last night. The design is centered around an LM386N IC chip from Radioshack. These are often called CMoy amps after Chu Moy who is credited for designing this schematic.
 
