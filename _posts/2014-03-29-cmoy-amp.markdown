@@ -2,6 +2,14 @@
 layout: post
 title:  "CMOY Amplifier"
 ---
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@so_rowdy">
+<meta name="twitter:creator" content="@so_rowdy">
+<meta name="twitter:title" content="My CMOY Pocket Amp">
+<meta name="twitter:description" content="Using an empty deoderant stick, I made a pocket amplifier powered by an LM386N amplifier chip.">
+<meta name="twitter:image:src" content="{{site.baseurl}}media/product.jpg">
+
 I've invested far too much in components and tools to have not made a pocket amplifier so that started happening around 9pm last night. The design is centered around an LM386N IC chip from Radioshack. These are often called CMoy amps after Chu Moy who is credited for designing this schematic.
 
 This would be the appropriate time to declare that I am sloppy at circuitry and have never taken a circuit theory class. The bulk of my knowledge comes from <a href="https://www.youtube.com/watch?v=aOJuCYgmPPE&list=PLDE23FAC8A681FA46" target="_blank"> Collin's Lab by MAKE</a> on YouTube.
