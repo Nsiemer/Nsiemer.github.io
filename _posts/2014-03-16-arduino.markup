@@ -47,7 +47,8 @@ Then, line 150 of the Firmata board.rb file was "deprecated," after Ruby-2.x.x. 
 <ul>
 <li>
 <code>
-cd [user directory]/.rvm/rubies/ruby-2.1.0/gems/firmata-0.1.1/lib/firmata && open -a [YOUR TEXT EDITOR].app board.rb </code></li>
+cd [user directory]/.rvm/rubies/ruby-2.1.0/gems/
+<br>firmata-0.1.1/lib/firmata && open -a [YOUR TEXT EDITOR].app board.rb </code></li>
 <li>go to line 150</li>
 <li>It should say <code> bytes = StringIO.new(String(data)).bytes</code></li>
 <li>Make it say <code> bytes = StringIO.new(String(data)).each_byte</code></li>

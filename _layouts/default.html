@@ -15,14 +15,66 @@
 
 				<!-- Custom CSS -->
 				<link rel="stylesheet" href="/css/main.css">
+
+				<!-- Bootstrap CSS -->
+				<link rel="stylesheet" href="/css/bootstrap.css">
+				<link rel="stylesheet" href="/css/bootstrap.min.css">
+				<link rel="stylesheet" href="/css/bootstrap-theme.css">
+				<link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+
+				<!-- Scripts -->
+				<script src='{{site.baseurl}}js/jquery.js'></script>
+				<script src='{{site.baseurl}}js/bootstrap.min.js'></script>
+				<script src='{{site.baseurl}}js/bootstrap.js'></script>
+				<script src='{{site.baseurl}}js/script.js'></script>
+
+				<!-- favicon -->
 				<meta name="msapplication-TileImage" content="{{ site.baseurl }}media/favicon.ico"/>
 				<link href="{{ site.baseurl }}media/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
 		</head>
 
 		<body>
+
+			<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{site.baseurl}}"><span class="glyphicon glyphicon-home"></span> Home</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="{{site.baseurl}}2014/03/29/cmoy-amp.html"><span class="glyphicon glyphicon-search"></span>
+CMOY amp</a></li>
+        <li><a href="http://www.twitter.com">Twitter</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 			<div id="page-wrap">
 				<div class="site">
+
 					<div class="header">
 						<h2 class="title"><a href="/">{{ site.name }}</a></h2>
 					</div>

@@ -3,12 +3,7 @@ layout: post
 title:  "Spritz"
 date: 2014-03-11
 ---
-<script>
-   if( window.console && window.console.firebug ){
-      alert("Sorry! This system does not support Firebug.\nClick OK to log out.");
-      window.location='/login_out';
-   }
-</script>
+
 
 Check it: I found this awesome new service called <a href="http://www.spritzinc.com" target="_blank">Spritz</a> on <a href="http://www.iflscience.com" target="_blank">I Fucking Love Science</a>.
 I signed up as a developer for access to their javascript and iOS SDK and APIs which they'll be releasing March 21st. I plan to implement it on this blog as soon as possible.

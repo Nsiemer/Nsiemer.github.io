@@ -6,7 +6,7 @@ title:  "Finally, A Stylesheet"
 I'm finally styling up this site. I haven't been looking forward to the chore, as there seem to be a ton of finer points to CSS that can take forever to learn. Not to mention SCSS and SASS.
 To start, I came up with this little draft that's not very different from the default jekyll styling.  
 <div class="container">
-<img src="{{site.baseurl}}media/draft.jpg" height="100%" width="100%">
+<img src="{{site.baseurl}}media/draft.jpg" height="50%" width="50%">
 </div>
 I plan on posting my own code along with a lot of outside content so I want to make a visual que to differentiate the two. I also want to make sure I cite my sources and give credit where credit's due.
 I wrestled with making that curly-arrow-tag thing all morning either as a scalable vector graphic (.svg), or by writing it entirely in CSS. Not making much progress, I decided to keep it simple and just go with an absolute positioned div, titled "cite."

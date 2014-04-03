@@ -25,7 +25,7 @@ body {
 	font-size: small;
 	text-align: center;
 }
-
+/*
 h1 {
 	font-size: 250%;
 	margin-top: 5px;
@@ -57,7 +57,7 @@ color: #FFFFFF;
 h5{
 	display: inline;
 	fontsize: 80%;
-}
+}*/
 
 a         { color: #a0a; }
 a:hover   { color: #000; }
@@ -169,6 +169,11 @@ padding: 8px;
 /*****************************************************************************/
 
 /* standard */
+img {
+	height:50%;
+	width: 50%;
+
+}
 .post pre {
 	border: 1px solid #ddd;
 	background-color: #eef;
@@ -233,6 +238,7 @@ box-shadow: 5px 5px black;
 	width: auto;
 	border-radius: 10px;
 	box-shadow: 10px 10px black;
+	cursor:pointer;
 }
 .cite a:    { color: #a0a; }
   a:hover   { color: white; }
