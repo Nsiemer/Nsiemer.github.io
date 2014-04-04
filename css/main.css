@@ -240,6 +240,9 @@ box-shadow: 5px 5px black;
 	box-shadow: 10px 10px black;
 	cursor:pointer;
 }
+.cite h4{
+	font-color: white;
+}
 .cite a:    { color: #a0a; }
   a:hover   { color: white; }
 }
