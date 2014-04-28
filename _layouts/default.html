@@ -28,21 +28,30 @@
 				<script src='{{site.baseurl}}js/bootstrap.min.js'></script>
 				<script src='{{site.baseurl}}js/bootstrap.js'></script>
 				<script src='{{site.baseurl}}js/script.js'></script>
+				<script src='{{site.baseurl}}js/reader.js'></script>
 
 				<!-- favicon -->
 				<meta name="msapplication-TileImage" content="{{ site.baseurl }}media/favicon.ico"/>
 				<link href="{{ site.baseurl }}media/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
+		<!-- The Spritz "Redicle" -->
+		<script type="text/javascript">
+    var SpritzSettings = {
+           clientId: "59ba145a9503ee779",
+           redirectUri: "http://nsiemer.github.io/login_success.html"
+    };
+		</script>
 		</head>
 
 		<body>
 
 
 			<div id="page-wrap">
-
 				<div class="site">
 
 					<div class="header">
+									<div class="reader" data-role="spritzer">
+				</div>
 						<h2 class="title"><a href="/">{{ site.name }}</a></h2>
 					</div>
 				<div class="pages">
