@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toxic Fumes, Dear Reader"
+title:  "iPhone 4 Mod Gone Wrong"
 date:   2014-03-10 19:38:50
 categories:
 ---
