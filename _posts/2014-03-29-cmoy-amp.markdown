@@ -9,7 +9,7 @@ This would be the appropriate time to declare that I am sloppy at circuitry and 
 <h3>So I used this schematic</h3>
 
 <div class="external">
-  <img src="http://nsiemer.github.io/media/schematic.jpg" width="300" height="500">
+  <img src="http://nsiemer.github.io/_media/schematic.jpg" width="300" height="500">
     <div class="cite">
     <h4>Hack a Week</h4><br>
     <a href="http://hackaweek.com/hacks/?p=131" target="_blank">hackaweek.com</a>
