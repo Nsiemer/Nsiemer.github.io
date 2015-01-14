@@ -9,7 +9,7 @@ This would be the appropriate time to declare that I am sloppy at circuitry and 
 <h3>So I used this schematic</h3>
 
 <div class="external">
-  <img src="http://nsiemer.github.io/_media/schematic.jpg" width="300" height="500">
+  <img src="http://nsiemer.github.io/media/schematic.jpg" width="300" height="500">
     <div class="cite">
     <h4>Hack a Week</h4><br>
     <a href="http://hackaweek.com/hacks/?p=131" target="_blank">hackaweek.com</a>
@@ -20,7 +20,7 @@ And included the bass boost from pin 5 to 1 on the amp.
 
 <h3>Here's my prototype on a breadboard</h3>
 <div class="container">
-<img src="{{site.baseurl}}2014/03/29/media/prototype.jpg" width="400" height="300"></div>
+<img src="http://nsiemer.github.io/ media/prototype.jpg" width="400" height="300"></div>
 Typically this pocket amp is housed in an Altoids tin but I didn't have one around because gross. After several laps around my apartment all I could come up with for an enclosure was an empty deodorant stick.
 
 This project only has a few space limitations <ol>
@@ -30,10 +30,10 @@ This project only has a few space limitations <ol>
 <li>Headphone jacks and swithes</li></ol>
 <h3>So I started with the fun part: jacks and switches</h3>
 <div class="container">
-<img src="nsiemer.github.io/media/cap.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/cap.jpg" width="300" height="400">
 <img src="http://nsiemer.github.io/media/cap2.jpg" width="300" height="400"><br>
 <img src="http://nsiemer.github.io/media/cap3.jpg" width="300" height="400">
-<img src="{{site.baseurl}}media/cap4.jpg" width="300" height="400"><br>
+<img src="http://nsiemer.github.io/media/cap4.jpg" width="300" height="400"><br>
 </div>
 One switch powers on the amp while the other selects the output, 3.5mm or 6.3mm.
 The input comes from a 3.5mm cable hanging out of the bottom of the body.
@@ -42,11 +42,11 @@ Next was the potentiometer/volume control.
 Being in a deodorant stick, I couldn't not have the dial be the pot.
 <h3>Measuring where to cut the pot</h3>
 <div class="container">
-<img src="{{site.baseurl}}/2014/03/29/media/dial.jpg" width="300" height="400"></div>
+<img src="http://nsiemer.github.io/media/dial.jpg" width="300" height="400"></div>
 
 <h3>Inside of the body</h3>
 <div class="container">
-<img src="{{site.baseurl}}/2014/03/29/media/inside.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/inside.jpg" width="300" height="400">
 </div>
 <br>
 The perfboard need a bit trimmed off the top. Scissors worked just fine.
@@ -55,15 +55,15 @@ I didn't take any pictures during the soldering just so I could get it over with
 
 <h3>But here's the final product</h3>
 <div class="container">
-<img src="{{site.baseurl}}2014/03/29/media/product.jpg" width="300" height="400">
-<img src="{{site.baseurl}}2014/03/29/media/product2.jpg" width="300" height="400"></div><br>
+<img src="http://nsiemer.github.io/media/product.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/product2.jpg" width="300" height="400"></div><br>
 
 <hr>
 <br>
 Bonus! At the earlier mentioned <a href="http://www.hackaweek.com" target="_blank">Hackaweek.com</a> page, he went into looking at sine waves on an oscilloscope a bit. A couple of months ago, I bought an oscilloscope of my own on <a href="http://www.ebay.com" target="_blank">Ebay</a> for $35. It's a 10MHz GW GOS-3310 and obviously not a very good oscope (useful ones sell between $900-$4000). But up until yesterday I didn't even think it worked. All I could get it to do was make a flat green line on the screen. But when I saw the hackaweek dude hook it up to the headphone output of a laptop, I checked the app store to see if they had any sine wave generating apps, and they do!
 
 <div class="external">
-<img src="{{site.baseurl}}/2014/03/29/media/sineapp.jpg" width="400" height="600">
+<img src="http://nsiemer.github.io/media/sineapp.jpg" width="400" height="600">
   <div class="cite">
   <h4>Signal Gen</h4><br>
   <a href="http://www.mediapunkstudios.com/apps/" target="_blank">Media Punk Studios</a>
@@ -72,9 +72,9 @@ Bonus! At the earlier mentioned <a href="http://www.hackaweek.com" target="_blan
 
 <h3>Which when hooked up</h3>
 <div class="container">
-<img src="{{site.baseurl}}/2014/03/29/media/hookup.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/hookup.jpg" width="300" height="400">
 </div>
 <h3>Does this</h3>
 <div class="container">
-<img src="{{site.baseurl}}/2014/03/29/media/wave2.jpg" width="300" height="400"></div>
+<img src="http://nsiemer.github.io/media/wave2.jpg" width="300" height="400"></div>
 It was pretty neat.
