@@ -30,10 +30,10 @@ This project only has a few space limitations <ol>
 <li>Headphone jacks and swithes</li></ol>
 <h3>So I started with the fun part: jacks and switches</h3>
 <div class="container">
-<img src="nsiemer.github.io/2014/03/29/media/cap.jpg" width="300" height="400">
-<img src="http://nsiemer.github.io/2014/03/29/media/cap2.jpg" width="300" height="400"><br>
-<img src="http://nsiemer.github.io/2014/03/29/media/cap3.jpg" width="300" height="400">
-<img src="{{site.baseurl}}2014/03/29/media/cap4.jpg" width="300" height="400"><br>
+<img src="nsiemer.github.io/media/cap.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/cap2.jpg" width="300" height="400"><br>
+<img src="http://nsiemer.github.io/media/cap3.jpg" width="300" height="400">
+<img src="{{site.baseurl}}media/cap4.jpg" width="300" height="400"><br>
 </div>
 One switch powers on the amp while the other selects the output, 3.5mm or 6.3mm.
 The input comes from a 3.5mm cable hanging out of the bottom of the body.
