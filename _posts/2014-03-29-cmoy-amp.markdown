@@ -30,7 +30,7 @@ This project only has a few space limitations <ol>
 <li>Headphone jacks and swithes</li></ol>
 <h3>So I started with the fun part: jacks and switches</h3>
 <div class="container">
-<img src="{{site.baseurl}}media/cap.jpg" width="300" height="400">
+<img src="nsiemer.github.io/media/cap.jpg" width="300" height="400">
 <img src="{{site.baseurl}}media/cap2.jpg" width="300" height="400"><br>
 <img src="{{site.baseurl}}media/cap3.jpg" width="300" height="400">
 <img src="{{site.baseurl}}media/cap4.jpg" width="300" height="400"><br>
