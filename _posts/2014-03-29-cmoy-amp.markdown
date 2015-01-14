@@ -20,7 +20,7 @@ And included the bass boost from pin 5 to 1 on the amp.
 
 <h3>Here's my prototype on a breadboard</h3>
 <div class="container">
-<img src="http://nsiemer.github.io/ media/prototype.jpg" width="400" height="300"></div>
+<img src="http://nsiemer.github.io/media/prototype.jpg" width="400" height="300"></div>
 Typically this pocket amp is housed in an Altoids tin but I didn't have one around because gross. After several laps around my apartment all I could come up with for an enclosure was an empty deodorant stick.
 
 This project only has a few space limitations <ol>

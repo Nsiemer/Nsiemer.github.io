@@ -57,9 +57,9 @@ cd [user directory]/.rvm/rubies/ruby-2.1.0/gems/
 This was my first time editing a gem's code and I'm psyched that it worked.<br><br>
 So when running <code>ruby bot.rb</code>, a warning still gets thrown with nokogiri's xml library but it's not fatal. Then the board prints a confirmation that it's connected, a firefox window opens, it loads the Google search from earlier and the terminal prints whether the minute is an even or odd integer.
 <div class="container">
-<img src="{{ site.baseurl }}/2014/03/16/media/ledoff.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/ledoff.jpg" width="300" height="400">
 </div><div class="container">
-<img src="{{ site.baseurl }}/2014/03/16/media/ledon.jpg" width="300" height="400">
+<img src="http://www.nsiemer.github.io/media/ledon.jpg" width="300" height="400">
 </div>
 Cool, I have a prototype that does what I want.<br>
 But it is not good. This code refreshes the Google page every 15 seconds which isn't great for getting up-to-date data. And having it refresh every 1 second would be obnoxious and possibly get your IP address blocked. Perhaps, "technically," it could be considered a DoS attack (10 years in jail) of sorts if the site you're harvesting from has a poor server. <br>
