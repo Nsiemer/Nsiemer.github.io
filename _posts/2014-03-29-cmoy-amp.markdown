@@ -32,7 +32,7 @@ This project only has a few space limitations <ol>
 <div class="container">
 <img src="nsiemer.github.io/media/cap.jpg" width="300" height="400">
 <img src="nsiemer.github.io/_media/cap2.jpg" width="300" height="400"><br>
-<img src="{{site.baseurl}}media/cap3.jpg" width="300" height="400">
+<img src="http://nsiemer.github.io/media/cap3.jpg" width="300" height="400">
 <img src="{{site.baseurl}}media/cap4.jpg" width="300" height="400"><br>
 </div>
 One switch powers on the amp while the other selects the output, 3.5mm or 6.3mm.
