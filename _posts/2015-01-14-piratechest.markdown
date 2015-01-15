@@ -76,7 +76,7 @@ So I found a cooler that could fit more than half of the frame in it and filled 
 <img src="http://nsiemer.github.io/media/IMG_3905.JPG" width="250" height="333"><br>
 Again, use the gel. I got a lot of solution on my hands and arms. No irritation came of it, but probably not very healthy.<br>
 <h4>The result</h4><br>
-<img src="http://nsiemer.github.io/media/IMG_3907.JPG" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3907.JPG" width="250" height="333"><br>
 
 <h4>The end game</h4><br>
 All that was left was to put some wood in. Diresta smoothly ran a circular saw down a shipping pallet. The pallets I had access to were a bit more wonky and required some more picking and choosing. But if I make another one, I won't use pallet wood. It stinks. <br>
