@@ -32,7 +32,7 @@ From here, I scored each leaf with a 4" grinder and bent 90° using a piece of i
 <img src="http://nsiemer.github.io/media/IMG_3822.jpg" width="250" height="333">
 <br>
 <h4>This picture would be cooler if I wasn't working with my mom.</h4>
-<img src="http://nsiemer.github.io/media/IMG_3825" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3825.jpg" width="250" height="333">
 <br>
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3826.jpg" width="250" height="333">
@@ -53,9 +53,9 @@ And then this really terrifying bit of plasma cutting. I'd never used one before
 
 
 The handles were made of scrap shaft stock I found<br>
-<img src="http://nsiemer.github.io/media/IMG_3866.jpg" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3866.JPG" width="250" height="333">
 <br>
-<img src="http://nsiemer.github.io/media/IMG_3889.jpg" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3889.JPG" width="250" height="333">
 <br>
 <br>
 One last bit of fabrication before adding the finish was this "skirt" thing. When I welded the hinge on to the lid and box, the lid didn't quite make a good seal. This skirt effectively covered the gap and gave the chest a more brawny look by letting me put a ton more welds on the surface.
