@@ -75,12 +75,15 @@ The thing about this stuff I got, is that it's a concentrate meant to make a bat
 So I found a cooler that could fit more than half of the frame in it and filled it with a mixture of distilled water and defluoridized infant water (it was either distilled or underwent reverse osmosis).<br>
 <img src="http://nsiemer.github.io/media/IMG_3905.JPG" width="250" height="333"><br>
 Again, use the gel. I got a lot of solution on my hands and arms. No irritation came of it, but probably not very healthy.<br>
-<h4>The result</h4><br>
-<img src="http://nsiemer.github.io/media/IMG_3907.JPG" width="250" height="333"><br>
+<h4>The result</h4><br><img src="http://nsiemer.github.io/media/IMG_3907.JPG" width="250" height="333"><br>
 
-<h4>The end game</h4><br>
+<h4>The end game</h4>
 All that was left was to put some wood in. Diresta smoothly ran a circular saw down a shipping pallet. The pallets I had access to were a bit more wonky and required some more picking and choosing. But if I make another one, I won't use pallet wood. It stinks. <br>
 <img src="http://nsiemer.github.io/media/IMG_3908.JPG" width="250" height="333"><br>
 <h3>And boom!</h3><br>
 <img src="http://nsiemer.github.io/media/final.jpg" width="250" height="333"><br>
 <img src="http://nsiemer.github.io/media/final2.jpg" width="250" height="333"><br>
+
+I didn't cover it well, but that 1/4" round steel from Menards was used on the latch. I heated it up with a blow torch and just bent it into 2 U shapes.
+
+All in all, it was about 22 hours of work and somewhere between $70 and $90 of materials considering the distilled water and welding wire.
