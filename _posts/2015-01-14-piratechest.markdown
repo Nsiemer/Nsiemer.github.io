@@ -49,7 +49,7 @@ Next was the lid.<br>
 And then this really terrifying bit of plasma cutting. I'd never used one before so I played it safe along the edges and settled with doing a ton of grinding.
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3862.JPG" width="250" height="333">
-<img src="http://nsiemer.github.io/mdeia/IMG_3864.jpg" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3864.jpg" width="250" height="333">
 
 
 The handles were made of scrap shaft stock I found<br>
