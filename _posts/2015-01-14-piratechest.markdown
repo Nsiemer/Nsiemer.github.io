@@ -77,7 +77,9 @@ Also, clean the surface off with a wire brush and steel wool.<br>
 ALSO, get the sealent! Whenever the steel gets wet now, little spots of rust show up. They brush right off but still…
 <br>
 
-So I found a cooler that could fit more than half of the frame in it and filled it with a mixture of distilled water and defluoridized infant water (it was either distilled or underwent reverse osmosis).<br>
+I found a cooler that could fit more than half of the frame in it and filled it with a mixture of distilled water.<br>
+It would mean a lot to me if you notice the empty jugs being loaded into the frame for fluid displacement. Thank you.
+<br>
 <img src="http://nsiemer.github.io/media/IMG_3905.JPG" width="250" height="333"><br>
 Again, use the gel. I got a lot of solution on my hands and arms. No irritation came of it, but probably not very healthy.<br>
 <h4>The result</h4><br><img src="http://nsiemer.github.io/media/IMG_3907.JPG" width="250" height="333"><br>
@@ -89,7 +91,7 @@ All that was left was to put some wood in. Diresta smoothly ran a circular saw d
 <img src="http://nsiemer.github.io/media/final.jpg" width="250" height="333"><br>
 <img src="http://nsiemer.github.io/media/final2.jpg" width="250" height="333"><br>
 <br>
-You're right to doubt that chain staying attached. It popped of less than 5 seconds after the picture was taken. Instead, a tack hammered into that wood piece just below now anchors the chain.
+You're right to doubt that chain staying attached. It popped off less than 5 seconds after the picture was taken. Instead, a tack hammered into that wood piece just below now anchors the chain.
 <br>
 
 I didn't cover it well, but that 1/4" round steel from Menards was used on the latch. I heated it up with a blow torch and just bent it into 2 U shapes.
