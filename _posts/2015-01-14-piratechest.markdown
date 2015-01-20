@@ -66,7 +66,7 @@ One last bit of fabrication before adding the finish was this "skirt" thing. Whe
 <h2>The Finish</h2><h4> This is important</h4>
 Regarding the finish, Diresta painted this stuff on his pirate chest that magically turned it black. I'd never seen that before so it took a bit of uninformed googling to learn that it was likely a steel blackening oxidizing acid. I found some from this company called <a href="http://www.caswellplating.com" target="blank">Caswell</a>. It was about $20. For those keeping track, that's ~$70 so far.<br>
 <img src="http://nsiemer.github.io/media/IMG_3897.jpg" width="250" height="333"><br>
-The thing about this stuff I got, is that it's a concentrate meant to make a bath, not to be brushed on. The stuff Diresta used was a gel, that Caswell also sells, I just didn't know that I'd need it. So use the gel!
+The thing about this stuff I got is that it's a concentrate meant to make a bath, not to be brushed on. The stuff Diresta used was a gel, that Caswell also sells, I just didn't know that I'd need it. So use the gel!
 Also, clean the surface off with a wire brush and steel wool.<br>
 
 <h3>See?</h3><br>
@@ -77,7 +77,7 @@ Also, clean the surface off with a wire brush and steel wool.<br>
 ALSO, get the sealent! Whenever the steel gets wet now, little spots of rust show up. They brush right off but still…
 <br>
 
-I found a cooler that could fit more than half of the frame in it and filled it with a mixture of distilled water.<br>
+I found a cooler that could fit more than half of the frame in it and filled it with a mixture of distilled water and the concentrate.<br>
 It would mean a lot to me if you notice the empty jugs being loaded into the frame for fluid displacement. Thank you.
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3905.JPG" width="250" height="333"><br>
