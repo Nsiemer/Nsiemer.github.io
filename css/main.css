@@ -11,6 +11,7 @@
 		-webkit-text-size-adjust: none;
 	}
 		#page-wrap{
+			background-color: #0776F9;
 			font-size: 90%;
 			padding: 8px 15px;
 		}
@@ -20,10 +21,10 @@
 html, body { height: 100%; }
 
 body {
-	background-color: #FFFFFF;
 	font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: small;
 	text-align: center;
+	background-color: #0776F9;
 }
 /*
 h1 {
@@ -106,10 +107,12 @@ a:hover   { color: #000; }
 	display: inline-block;
 	margin-top: 1em;
 	margin-bottom: 2em;
+	font-family: ParaType;
 }
 
 .title a {
-	color: blue;
+	color: #0776F9;
+	font: helvetica;
 }
 
 .title a:hover {
@@ -121,7 +124,7 @@ a:hover   { color: #000; }
 	margin-left: 1em;
 }
 .pages{
-background-color: #B7E6E8;
+background-color: #A4F579;
 border-radius: 10px;
 /*box-shadow: 10px 10px 10px 10px black;*/
 padding: 8px;
