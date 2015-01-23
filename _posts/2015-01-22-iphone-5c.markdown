@@ -3,9 +3,11 @@ layout: post
 title: iPhone 5c Repair Gone Right
 ---
 
+<img src="http://nsiemer.github.io/media/visor.jpg" width="250" height="333"><br>
+
 Remember my <a href="http://nsiemer.github.io//2014/03/29/cmoy-amp.html" target="_blank">CMOY pocket amplifier</a>? Embarrassingly, I somehow forgot to mention that I blew the headphone jack in my iPhone 5c with a prototype on a bread board that night. It was a humbling moment when I let some voltage go into the jack and turn the phone's screen to static. By some crazy electrical engineering miracle it rebooted itself seconds later and I went on with my life pretending nothing ever happened. Turns out that having a headphone jack in a phone isn't a life necessity but rather an opportunity to go buy a pink iPod nano.
 
-Seven months later, the Lightning port on the phone stopped detecting when a cord was plugged in. The headphone jack happens to be a part of the same piece of hardware so I could kill two birds with one stone. <a href="http://www.ifixit.com" target="_blink">ifixit.com</a> is a great resource for this kind of project. They have all the hardware and tools available and a ton of How-To videos. I figured while I was at it, I'd go ahead and change out the battery, too.
+Seven months later, the Lightning port on the phone stopped detecting when a cord was plugged in. The headphone jack happens to be a part of the same piece of hardware so I could get two birds stoned at once. <a href="http://www.ifixit.com" target="_blink">ifixit.com</a> is a great resource for this kind of project. They have all the hardware and tools available and a ton of How-To videos. I figured while I was at it, I'd go ahead and change out the battery, too.
 
 So they sent me this
 <br>
