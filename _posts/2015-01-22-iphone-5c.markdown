@@ -12,7 +12,8 @@ Seven months later, the Lightning port on the phone stopped detecting when a cor
 So they sent me this
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3934.jpg" width="250" height="333">
-<img src="http://nsiemer.github.io/media/IMG_3939.jpg" width="250" height="333">
+<br>
+<img src="http://nsiemer.github.io/media/IMG_3939.jpg" width="250" height="333"><br>
 <img src="http://nsiemer.github.io/media/IMG_3937.jpg" width="250" height="333">
 <br>
 The piece on the left is the battery, the Lightning port is on the right, and that blue thing in the box is the adhesive that secures the battery to the back of the phone.
@@ -20,7 +21,9 @@ The piece on the left is the battery, the Lightning port is on the right, and th
 <img src="http://nsiemer.github.io/media/GOPR0059.JPG" width="333" height="250">
 <br>
 
-So to start, I unfastened the 2 screws by the Lightning port and cracked it open with two suction cups
+To start, I unfastened the 2 screws by the Lightning port and cracked it open with two suction cups.
+It's important to note that opening your device is no time to let your Type B show through. Keep the screws sorted in the order that you removed them and spacially oriented. These screws are all between 1.3mm and 3mm. The smaller ones all look to be about the same size. And some steps of the disassembly have varying sizes of screws being removed at the same time. Save yourself a ton of time by keeping them stringently organized. Also don't let them fall on the floor. I dropped 4 throughout the project and they're invisible on carpet.
+
 <br>
 <img src="http://nsiemer.github.io/media/GOPR0068.JPG" width="333" height="250">
 <br>
@@ -34,6 +37,7 @@ Well I let one tear so I lightly heated up the back with a hair dryer and was ab
 <img src="http://nsiemer.github.io/media/IMG_3963.JPG" width="333" height="250">
 <br>
 Once I removed the battery, I got too into what I was doing to stop and keep taking pictures every step of the way. It all went according to plan and the Lightning port assembly really swapped right out. Everything was smooth sailing until I got it back together and powered it on. It took a concerning amount of time to boot up. And once it did, the screen had a bunch of vertical lines going down it, it wasn't finding a network, the home button had no effect and the screen wasn't responding to touch.
+<br>
 <img src="http://nsiemer.github.io/media/IMG_3966.JPG" width="333" height="250">
 
 This grocery list seemed suspiciously long for me to have broken that many things. I'm no pro, but I'm not ENTIRELY incompetent. Just mostly incompetent, as the problem was being caused by the 3 pads of the touch screen not being connected properly. It's worth mentioning that if you ever mess with these things that they're also fragile and much harder to repair.
