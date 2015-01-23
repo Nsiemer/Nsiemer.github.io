@@ -9,12 +9,12 @@ Remember my <a href="http://nsiemer.github.io//2014/03/29/cmoy-amp.html" target=
 
 Seven months later, the Lightning port on the phone stopped detecting when a cord was plugged in. The headphone jack happens to be a part of the same piece of hardware so I could get two birds stoned at once. <a href="http://www.ifixit.com" target="_blink">ifixit.com</a> is a great resource for this kind of project. They have all the hardware and tools available and a ton of How-To videos. I figured while I was at it, I'd go ahead and change out the battery, too.
 
-So they sent me this (the pics are wrong sizes)
+So they sent me this
 <br>
-<img src="http://nsiemer.github.io/media/IMG_3934.jpg" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3934.jpg">
 <br>
-<img src="http://nsiemer.github.io/media/IMG_3939.jpg" width="250" height="333"><br>
-<img src="http://nsiemer.github.io/media/IMG_3937.jpg" width="250" height="900">
+<img src="http://nsiemer.github.io/media/IMG_3939.jpg"><br>
+<img src="http://nsiemer.github.io/media/IMG_3937.jpg">
 <br>
 The piece on the left is the battery, the Lightning port is on the right, and that blue thing in the box is the adhesive that secures the battery to the back of the phone.
 <br>
@@ -25,7 +25,7 @@ To start, I unfastened the 2 screws by the Lightning port and cracked it open wi
 It's important to note that opening your device is no time to let your Type B show through. Keep the screws sorted in the order that you removed them and spacially oriented. These screws are all between 1.3mm and 3mm. The smaller ones all look to be about the same size. And some steps of the disassembly have varying sizes of screws being removed at the same time. Save yourself a ton of time by keeping them stringently organized. Also don't let them fall on the floor. I dropped 4 throughout the project and they're invisible on carpet.
 
 <br>
-<img src="http://nsiemer.github.io/media/GOPR0068.JPG" width="500" height="375">
+<img src="http://nsiemer.github.io/media/GOPR0068.JPG">
 <br>
 <img src="http://nsiemer.github.io/media/GOPR0072.JPG" width="500" height="375">
 <br>
