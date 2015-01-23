@@ -9,12 +9,12 @@ Remember my <a href="http://nsiemer.github.io//2014/03/29/cmoy-amp.html" target=
 
 Seven months later, the Lightning port on the phone stopped detecting when a cord was plugged in. The headphone jack happens to be a part of the same piece of hardware so I could get two birds stoned at once. <a href="http://www.ifixit.com" target="_blink">ifixit.com</a> is a great resource for this kind of project. They have all the hardware and tools available and a ton of How-To videos. I figured while I was at it, I'd go ahead and change out the battery, too.
 
-So they sent me this
+So they sent me this (the pics are wrong sizes)
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3934.jpg" width="250" height="333">
 <br>
 <img src="http://nsiemer.github.io/media/IMG_3939.jpg" width="250" height="333"><br>
-<img src="http://nsiemer.github.io/media/IMG_3937.jpg" width="250" height="333">
+<img src="http://nsiemer.github.io/media/IMG_3937.jpg" width="250" height="900">
 <br>
 The piece on the left is the battery, the Lightning port is on the right, and that blue thing in the box is the adhesive that secures the battery to the back of the phone.
 <br>
