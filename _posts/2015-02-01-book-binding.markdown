@@ -6,13 +6,13 @@ title: "Book Binding"
 <img src="http://nsiemer.github.io/media/IMG_4070.JPG"><br>
 
 
-Here's Jimmy DiResta making a journal:<br>
+<h4>Here's Jimmy DiResta making a journal:</h4><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afeLi1KbyYg" frameborder="0" allowfullscreen></iframe><br>
 
 See how he has each piece of paper folded individually? I imagine this method has a lot of pros but on further research I found other tutorials where they'd fold ~5 sheets of paper at a time into packets called, "Signatures." The signatures get sewn together along the spine, with ribbon beneath the stitches. The ribbon will eventually be what holds the pages into the covers. Because I didn't have any super cloth (the gauze stuff DiResta glued on the spine) or know where to get it offline, I opted for doing the sewn signatures method.
-Here's the video I used for reference doing the signatures:<br>
+<h4>Here's the video I used for reference doing the signatures:</h4><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hsa8h3JPUBw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hsa8h3JPUBw" frameborder="0" allowfullscreen></iframe><br>
 
 The materials:
 <li>
@@ -49,5 +49,5 @@ On mine, I used a heavy black vinyl for the cover. Because of the material's thi
 
 Gluing the signatures into the cover is a little tricky. If you don't get the spine snugged to the spine cover all of the pages will wiggle in the cover. I wasn't very cautious of this on my first book and I imagine the movement will one day wear out the glue's bond.
 
-When making something for someone else, presentation can go a long way.
+Of course presentation goes a long way.<br>
 <img src="http://nsiemer.github.io/media/IMG_4116.jpg">
