@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pirate Chest"
+title:  "Coffer"
 ---
 
 This was the Tokyo Maker Faire. While I've never been to Tokyo, this video reaffirms all of my standing ideas of Tokyo. <br>
