@@ -16,14 +16,23 @@ Here's the video I used for reference doing the signatures:<br>
 The materials:
 <li>
 <ul>Paper of your choosing. I used 50 sheets of drawing paper.</ul>
+
 <ul>PVA (Poly-Vinyl Acetate) glue. Or plain white Elmer's glue. There are also <a href="http://www.amazon.com/gp/product/B0025TZ26Q/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">specialty glues</a> available for book binding</ul>
+
 <ul>Plain 2" craft ribbon<ul>
+
 <ul>1mm waxed cotton thread (There are also specialty bookbinding threads.)</ul>
+
 <ul>Rigid poster or cardboard stock of your choosing for the covers.</ul>
+
 <ul>Vinyl for the cover</ul>
+
 <ul>"Craft needles" or an awl needle with an eye.</ul>
+
 <ul>Card stock for the insides of the covers to seal down the ribbon to the cardboards. DiResta used pages from a gun magazine in his video for this.</ul>
+
 <ul><a href="http://www.amazon.com/gp/product/B0007LS8G0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">Super Cloth</a></ul>
+
 </li>
 
 Unlike the 2nd video I embedded, I used a 6-hole template rather than 4-hole so I could use 2 ribbons. Possibly unnecessary.
