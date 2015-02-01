@@ -3,7 +3,8 @@ layout: post
 title: "Book Binding"
 ---
 
-[Image 1]
+<img src="http://nsiemer.github.io/media/IMG_4070.JPG"><br>
+
 
 Here's Jimmy DiResta making a journal:<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afeLi1KbyYg" frameborder="0" allowfullscreen></iframe><br>
@@ -15,26 +16,25 @@ Here's the video I used for reference doing the signatures:<br>
 
 The materials:
 <li>
-<ul>Paper of your choosing. I used 50 sheets of drawing paper.</ul>
-
-<ul>PVA (Poly-Vinyl Acetate) glue. Or plain white Elmer's glue. There are also <a href="http://www.amazon.com/gp/product/B0025TZ26Q/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">specialty glues</a> available for book binding</ul>
-
-<ul>Plain 2" craft ribbon<ul>
-
-<ul>1mm waxed cotton thread (There are also specialty bookbinding threads.)</ul>
-
-<ul>Rigid poster or cardboard stock of your choosing for the covers.</ul>
-
-<ul>Vinyl for the cover</ul>
-
-<ul>"Craft needles" or an awl needle with an eye.</ul>
-
-<ul>Card stock for the insides of the covers to seal down the ribbon to the cardboards. DiResta used pages from a gun magazine in his video for this.</ul>
-
-<ul><a href="http://www.amazon.com/gp/product/B0007LS8G0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">Super Cloth</a></ul>
-
+  <ul>Paper of your choosing. I used 50 sheets of drawing paper.</ul></li>
+<li>
+  <ul>PVA (Poly-Vinyl Acetate) glue. Or plain white Elmer's glue. There are also <a href="http://www.amazon.com/gp/product/B0025TZ26Q/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">specialty glues</a> available for book binding</ul>
+<li>
+  <ul>Plain 2" craft ribbon</ul>
+</li><li>
+  <ul>1mm waxed cotton thread (There are also specialty bookbinding threads.)</ul>
+</li><li>
+  <ul>Rigid poster or cardboard stock of your choosing for the covers.</ul>
+</li><li>
+  <ul>Vinyl for the cover</ul>
+</li><li>
+  <ul>"Craft needles" or an awl needle with an eye.</ul>
+</li><li>
+  <ul>Card stock for the insides of the covers to seal down the ribbon to the cardboards. DiResta used pages from a gun magazine in his video for this.</ul>
+</li><li>
+  <ul><a href="http://www.amazon.com/gp/product/B0007LS8G0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">Super Cloth</a></ul>
 </li>
-
+<br>
 Unlike the 2nd video I embedded, I used a 6-hole template rather than 4-hole so I could use 2 ribbons. Possibly unnecessary.
 
 Sewing together the signatures is the most painstaking part of the craft. It's important that the signatures are sewn tightly so they won't wiggle after the book is bound.
@@ -50,4 +50,4 @@ On mine, I used a heavy black vinyl for the cover. Because of the material's thi
 Gluing the signatures into the cover is a little tricky. If you don't get the spine snugged to the spine cover all of the pages will wiggle in the cover. I wasn't very cautious of this on my first book and I imagine the movement will one day wear out the glue's bond.
 
 When making something for someone else, presentation can go a long way.
-<img src="http://nsiemer.github.io/media/IMG_4116.jpg"
+<img src="http://nsiemer.github.io/media/IMG_4116.jpg">
