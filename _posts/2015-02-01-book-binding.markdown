@@ -6,11 +6,11 @@ title: "Book Binding"
 <img src="http://nsiemer.github.io/media/IMG_4070.JPG"><br>
 
 
-<h4>Here's Jimmy DiResta making a journal:</h4><br>
+<h3>Here's Jimmy DiResta making a journal:</h3><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afeLi1KbyYg" frameborder="0" allowfullscreen></iframe><br>
 
 See how he has each piece of paper folded individually? I imagine this method has a lot of pros but on further research I found other tutorials where they'd fold ~5 sheets of paper at a time into packets called, "Signatures." The signatures get sewn together along the spine, with ribbon beneath the stitches. The ribbon will eventually be what holds the pages into the covers. Because I didn't have any super cloth (the gauze stuff DiResta glued on the spine) or know where to get it offline, I opted for doing the sewn signatures method.
-<h4>Here's the video I used for reference doing the signatures:</h4><br>
+<h3>Here's the video I used for reference doing the signatures:</h3><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hsa8h3JPUBw" frameborder="0" allowfullscreen></iframe><br>
 
