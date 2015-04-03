@@ -17,18 +17,31 @@ I just put it on my desktop.
 
 Now open sqlbrowser available for download <a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank">HERE</a>.
 Import the (appName).sqlite database and open the ZUSER table and export it as .csv
-Open the .csv file in Excel, filter / sort it however you want (by sex, by people who have >10,000 likes, etc.) Now copy the columns of the names you want into a new spread sheet. First names in the first column, last names in the second column. Save the new spreadsheet as a .xls file.
-Now copy and paste this code into a text editor and save it as `names.rb`
-to your desktop.
-<script src="https://gist.github.com/Nsiemer/6874251458cfcb7cc356.js"></script>
+Open the .csv file in Excel, filter / sort it however you want (by sex, by people who have >10,000 likes, etc.) Now copy the columns of the names you want into a new spread sheet. First names in the first column, last names in the second column. Save the new spreadsheet as a .xls file to your desktop.
+
+This part is easy.
 
 Press the Command key + space bar <br>
 Type "Terminal" <br>
 press enter <br>
-in the terminal, type `cd ~/desktop` <br>
+In the terminal window, now type `gem install spreadsheet`
+Things will start happening. Let them finish.
+(This is what will let the Ruby code below interact with the Excel file you just made. Perhaps you can see that lines 9-12 are editing and molding the names into tags.)
+
+Again, press the Command key + space bar <br>
+Type "Textedit"<br>
+Press enter<br>
+
+Now copy and paste this code into Textedit and save it as `names.rb`
+to your desktop:
+
+<script src="https://gist.github.com/Nsiemer/6874251458cfcb7cc356.js"></script>
+
+
+Back in the terminal, type `cd ~/desktop` <br>
 press enter <br>
 in the terminal, type `ruby names.rb` <br>
 press enter <br>
 
-A new .txt file should've appeared on your desktop labelled "generatedNames.txt"
-Open it. Copy the contents in an email to yourself. Open the email on your phone and Bob's your uncle.
+A new .txt file should've appeared on your desktop labelled "generatedNames.txt"<br>
+Open it. <br>Copy the contents in an email to yourself. Open the email on your phone and Bob's your uncle.
