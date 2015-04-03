@@ -35,7 +35,7 @@ The materials:
   <ul><a href="http://www.amazon.com/gp/product/B0007LS8G0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1" target="_blank">Super Cloth</a></ul>
 </li>
 <br>
-Unlike the 2nd video I embedded, I used a 6-hole template rather than 4-hole so I could use 2 ribbons. Possibly unnecessary.
+Unlike the 2nd video, I used a 6-hole template rather than 4-hole so I could use 2 ribbons. Possibly unnecessary.
 
 Sewing together the signatures is the most painstaking part of the craft. It's important that the signatures are sewn tightly so they won't wiggle after the book is bound.
 

@@ -1,0 +1,34 @@
+---
+layout: post
+title: Social Network Names
+---
+
+On this terrible social media app for college students, you can get the tagging name of every / any user you want with
+
+<ul> iExplorer (free)</ul>
+<ul> sqlbrowser (free)</ul>
+<ul> Microsoft Excel</ul>
+<ul> an email address</ul>
+
+
+Start by plugging in your iphone and opening iExplorer.
+go to Apps > erodr > Library > Application Support > erodr2 > and copy the Erodr.sqlite file onto your HDD.<br>
+I just put it on my desktop.
+
+Now open sqlbrowser from <a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank">HERE</a>.
+Import the erodr.sqlite database and open the ZUSER table and export it as .csv
+Open the .csv file in Excel, filter / sort it however you want (by sex, by people who have >10,000 likes, etc.) Now copy the columns of the names you want into a new spread sheet. First names in the first column, last names in the second column. Save the new spreadsheet as a .xls file.
+Now copy and paste this code into a text editor and save it as `names.rb`
+to your desktop.
+<script src="https://gist.github.com/Nsiemer/6874251458cfcb7cc356.js"></script>
+
+Press the Command key + space bar <br>
+Type "Terminal" <br>
+press enter <br>
+in the terminal, type `cd ~/desktop` <br>
+press enter <br>
+in the terminal, type `ruby names.rb` <br>
+press enter <br>
+
+A new .txt file should've appeared on your desktop labelled "generatedNames.txt"
+Open it. Copy the contents in an email to yourself. Open the email on your phone and Bob's your uncle.
