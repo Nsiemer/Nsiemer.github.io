@@ -26,7 +26,7 @@ Type "Terminal" <br>
 press enter <br>
 In the terminal window, now type `gem install spreadsheet`
 Things will start happening. Let them finish.
-(This is what will let the Ruby code below interact with the Excel file you just made. Perhaps you can see that lines 9-12 are editing and molding the names into tags.)
+(This is what will let the Ruby code below interact with the Excel file you just made. Perhaps you can see that lines 10-13 are editing and molding the names into tags.)
 
 Again, press the Command key + space bar <br>
 Type "Textedit"<br>
