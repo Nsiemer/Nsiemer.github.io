@@ -3,7 +3,7 @@ layout: post
 title: Social Network Names
 ---
 
-On this terrible social media app for college students, you can get the tagging name of every / any user you want with
+On this terrible social media app (I'll call it appName) for college students, you can get the tagging name of every / any user you want with
 
 <ul> iExplorer (free)</ul>
 <ul> sqlbrowser (free)</ul>
@@ -12,11 +12,11 @@ On this terrible social media app for college students, you can get the tagging 
 
 
 Start by plugging in your iphone and opening iExplorer.
-go to Apps > (appName) > Library > Application Support > (appName)2 > and copy the Erodr.sqlite file onto your HDD.<br>
+go to Apps > (appName) > Library > Application Support > (appName)2 > and copy the (appName).sqlite file onto your HDD.<br>
 I just put it on my desktop.
 
-Now open sqlbrowser from <a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank">HERE</a>.
-Import the erodr.sqlite database and open the ZUSER table and export it as .csv
+Now open sqlbrowser available for download <a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank">HERE</a>.
+Import the (appName).sqlite database and open the ZUSER table and export it as .csv
 Open the .csv file in Excel, filter / sort it however you want (by sex, by people who have >10,000 likes, etc.) Now copy the columns of the names you want into a new spread sheet. First names in the first column, last names in the second column. Save the new spreadsheet as a .xls file.
 Now copy and paste this code into a text editor and save it as `names.rb`
 to your desktop.
