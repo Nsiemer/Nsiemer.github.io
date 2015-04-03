@@ -12,7 +12,7 @@ On this terrible social media app for college students, you can get the tagging 
 
 
 Start by plugging in your iphone and opening iExplorer.
-go to Apps > erodr > Library > Application Support > erodr2 > and copy the Erodr.sqlite file onto your HDD.<br>
+go to Apps > (appName) > Library > Application Support > (appName)2 > and copy the Erodr.sqlite file onto your HDD.<br>
 I just put it on my desktop.
 
 Now open sqlbrowser from <a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank">HERE</a>.
