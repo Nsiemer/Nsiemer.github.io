@@ -3,7 +3,7 @@ layout: post
 title: Social Network Names
 ---
 
-On this terrible social media app (I'll call it appName) for college students, you can get the tagging name of every / any user you want with
+On this social media app (I'll call it appName) for college students, you can get the tagging name of every / any user you want with
 
 <ul> iExplorer (free)</ul>
 <ul> sqlbrowser (free)</ul>
