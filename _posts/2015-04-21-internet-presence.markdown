@@ -4,7 +4,7 @@ layout: default
 title: Online Presence
 ---
 
-The one stop shop for my internet presence<br>
+<br>
 
 <style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
