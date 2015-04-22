@@ -3,6 +3,8 @@ layout: post
 title: Online Presence
 ---
 
+The one stop shop for my internet presence
+
 <a href="http://instagram.com/nsiemer?ref=badge" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
 
 <a href="https://twitter.com/So_Rowdy" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @So_Rowdy</a>
